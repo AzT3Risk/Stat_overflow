@@ -50,5 +50,18 @@ The following metrics have been used in this project:
 
 Mostly, we've used F1 score, since it combines the measures Precision and Recall in a single metrics.
 
+## Exploratory Data Analysis
+## Results
+## Conclusion
+## References
+### Built with
+* [Python](https://www.python.org/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
+* 
 
+### Contact
+[Shreya Dastidar](http://www.linkedin.com/in/shreya-dastidar) - shreya.dastidar.stats@gmail.com
+
+[Srijeeta Sensarma](http://www.linkedin.com/in/shreya-dastidar) - srijeeta.sensarma.stats@gmail.com
 
